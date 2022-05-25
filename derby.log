@@ -1,0 +1,12 @@
+----------------------------------------------------------------
+Wed May 25 10:25:50 CEST 2022D001 : [0] The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585), [1] a816c00e-0180-fa52-75d7-0000067ff938, [2] C:\Users\Ruben Mejias\Desktop\1º DAW\JugadoresBaloncesto\BDJugadoresBaloncesto, [3] jdk.internal.loader.ClassLoaders$AppClassLoader@79698539, [4] file:/C:/Users/Ruben%20Mejias/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.12+8-LTS-237
+user.dir=C:\Users\Ruben Mejias\Desktop\1º DAW\JugadoresBaloncesto
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+C005 : [0] 
+----------------------------------------------------------------
+Wed May 25 10:27:09 CEST 2022D002 : [0] a816c00e-0180-fa52-75d7-0000067ff938, [1] C:\Users\Ruben Mejias\Desktop\1º DAW\JugadoresBaloncesto\BDJugadoresBaloncesto, [2] jdk.internal.loader.ClassLoaders$AppClassLoader@79698539
