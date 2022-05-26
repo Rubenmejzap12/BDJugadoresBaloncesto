@@ -111,10 +111,7 @@ public class SecondaryController implements Initializable{
         textFieldNombre.setText(jugador.getNombre());
         textFieldApellido.setText(jugador.getApellidos());
         textFieldEmail.setText(jugador.getEmail());
-        
-        if(jugador.getIdJugad() != null){
-            textFieldIdJugador.setText(String.valueOf(jugador.getIdJugad()));
-        }
+       
         
         if(jugador.getTelefono() != null){
             textFieldTelefono.setText(String.valueOf(jugador.getTelefono()));
